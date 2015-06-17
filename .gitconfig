@@ -1,0 +1,25 @@
+[user]
+	name = Drew Shapiro
+	email = drew.shapiro@gmail.com  
+
+[core]
+	editor = nano
+#editor = subl
+
+[web]
+	browser = google-chrome
+
+[color]
+	ui = auto
+
+[diff]
+	tool = meld
+
+[github]
+	user = drews
+
+[alias]
+	d = diff
+	dc = diff --cached
+	st = status
+	au = add -u
